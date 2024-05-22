@@ -1,0 +1,12 @@
+## Usage
+
+1. Clone the repository:
+
+2. Navigate to the project directory:
+
+
+3. Follow the instructions in the Jupyter notebooks located in the `notebooks/` directory to explore the data, preprocess it, develop machine learning models, and evaluate their performance.
+
+## References
+
+- Add relevant references here.
